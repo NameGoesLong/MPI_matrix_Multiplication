@@ -1,5 +1,5 @@
 # MPI_matrix_Multiplication
-## The following is the rubric for a homework in Concurrent Scientific Programming course. We are given 2 weeks to implement Cannon’s Algorithm using MPI. I hope this illustrate my experience in MPI.
+## The following is the rubric for a homework in Concurrent Scientific Programming course.
 
 Implement Cannon's Matrix Multiplication Algorithm on your own using MPI. Your implementation should be able to handle a matrix size of 1000000x1000000 on 100 nodes.
 Each node should only execute serial code, no threading. Your code should be well organized such that each phase is broken up into well written subroutines.
